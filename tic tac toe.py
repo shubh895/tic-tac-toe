@@ -88,7 +88,7 @@ while True:
                         print("THIS GAME IS A TIE.NOBODY WON IT.")
                         break
                     else:
-                        turn = 'Player 1'
+                        turn = 'Player1'
 
     if not replay():
         break
